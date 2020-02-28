@@ -13,12 +13,12 @@
 	$subject 		= "Email from my website";
 	$body 			= "Information Submitted:";
 
-	$body .= "\r\n name:" . $userName;
-	$body .= "\r\n email:" . $userEmail;
-	$body .= "\r\n number:" . $userNumber;
-	$body .= "\r\n subject:" . $userSubject;
-	$body .= "\r\n date:" . $userDate;
-	$body .= "\r\n message:" . $userMessage;
+	$body .= "\r\n Customer name: " . $userName;
+	$body .= "\r\n Email: " . $userEmail;
+	$body .= "\r\n Contact Number:" . $userNumber;
+	$body .= "\r\n Subject:" . $userSubject;
+	$body .= "\r\n Wedding date:" . $userDate;
+	$body .= "\r\n Message:" . $userMessage;
 
 	mail($to, $subject, $body);
 ?>

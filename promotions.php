@@ -1,5 +1,5 @@
 <?php
-  $page_title = "FAQS - Carina Snyman Designs";
+  $page_title = "Promotions - Carina Snyman Designs";
   include 'includes/header.php';
 ?>
 
