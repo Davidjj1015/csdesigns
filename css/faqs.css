@@ -1,0 +1,18 @@
+#faqs{
+    margin-top: 1.5rem;
+    margin-bottom: 3.5rem;
+}
+
+#header{
+    color: #212529;
+    font-size: 1rem;
+}
+#header:hover{
+    color: #662d91;
+}
+
+
+
+.card{
+    margin-top: 0.5rem;
+}
