@@ -43,7 +43,7 @@
                   <input type="email" class="form-control" id="email" aria-describedby="emailHelp" placeholder="Your email">
                 </div>
                 <div class="form-group">
-                <label for="Your Number">Number</label>
+                <label for="000 000 0000">Number</label>
                   <input name="number" id="number" type="tel" class="form-control" placeholder="000 000 0000">
                 </div>
                 <div class="form-group">

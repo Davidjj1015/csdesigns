@@ -4,6 +4,7 @@
 	$userEmail		=  $_POST['email'];
 	$userNumber		=  $_POST['number'];
 	$userSubject	=  $_POST['subject'];
+	$userDate		=  $_POST['date'];
 	$userMessage	=  $_POST['message'];
 	echo "==============================<br />";
 	echo "Thank you for your message, I will be in touch very soon!";
@@ -16,6 +17,7 @@
 	$body .= "\r\n email:" . $userEmail;
 	$body .= "\r\n number:" . $userNumber;
 	$body .= "\r\n subject:" . $userSubject;
+	$body .= "\r\n date:" . $userDate;
 	$body .= "\r\n message:" . $userMessage;
 
 	mail($to, $subject, $body);
