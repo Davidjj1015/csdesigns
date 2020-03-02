@@ -10,6 +10,8 @@
             <li><a href="about.php"><span>About</span></a></li>
             <li><a href="gallery.php"><span>Gallery</span></a></li>
             <li><a href="contact.php"><span>Contact</span></a></li>
+            <li><a href="promotions.php"><span>Promotions</span></a></li>
+            <li><a href="faqs.php"><span>FAQS</span></a></li>
           </ul>
         </div>
       </div>

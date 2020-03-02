@@ -20,6 +20,7 @@
                 <a href="about.php" >About</a>
                 <a href="gallery.php" >Gallery</a>
                 <a href="contact.php" >Contact</a>
+                <a href="promotions.php" >Promotions</a>
                 <a href="faqs.php" >FAQS</a>
                 <br></br>
                 <div class="col-md-12 text-justify-center">

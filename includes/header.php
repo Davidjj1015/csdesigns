@@ -54,6 +54,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             <a id="navLink" href="contact.php" class="nav-link">CONTACT ME</a>
                         </li>
                         <li class="nav-item">
+                            <a id="navLink" href="promotions.php" class="nav-link">PROMOTIONS</a>
+                        </li>
+                        <li class="nav-item">
                             <a id="navLink" href="faqs.php" class="nav-link">FAQS</a>
                         </li>
                         <!-- <li class="nav-item">
