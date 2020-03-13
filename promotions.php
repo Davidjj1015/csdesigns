@@ -51,7 +51,7 @@
                             <input name="number" id="number" type="tel" class="form-control" placeholder="000 000 0000">
                           </div>
                           <div class="form-group">
-                          <label for="Where">Where did you hear about Carina Snyman Designs?</label>
+                          <label for="Where">How did you find Carina Snyman Designs?</label>
                             <input name="where" id="where" type="text" class="form-control" placeholder="">
                           </div>
                           <div class="form-group">
