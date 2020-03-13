@@ -4,7 +4,7 @@
 	$userEmail		=  $_POST['email'];
 	$userNumber		=  $_POST['number'];
 	$userSubject	=  $_POST['subject'];
-	$userDate		=  $_POST['date'];
+	$userWhere		=  $_POST['where'];
 	$userMessage	=  $_POST['message'];
 	echo "==============================<br />";
 	echo "Thank you for your message, I will be in touch very soon!";
@@ -17,7 +17,7 @@
 	$body .= "\r\n Email: " . $userEmail;
 	$body .= "\r\n Contact Number:" . $userNumber;
 	$body .= "\r\n Subject:" . $userSubject;
-	$body .= "\r\n Wedding date:" . $userDate;
+	$body .= "\r\n Where:" . $userWhere;
 	$body .= "\r\n Message:" . $userMessage;
 
 	mail($to, $subject, $body);

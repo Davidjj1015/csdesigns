@@ -26,7 +26,7 @@
             </div>
             </div>
         </div>
-      
+
 
         <section>
             <div class="container">
@@ -51,8 +51,8 @@
                             <input name="number" id="number" type="tel" class="form-control" placeholder="000 000 0000">
                           </div>
                           <div class="form-group">
-                          <label for="Wedding Date.">Wedding Date</label>
-                            <input name="date" id="date" type="date" class="form-control" placeholder="">
+                          <label for="Where">Where did you hear about Carina Snyman Designs?</label>
+                            <input name="where" id="where" type="text" class="form-control" placeholder="">
                           </div>
                           <div class="form-group">
                             <input type="button" id="submitFormData" onclick="SubmitFormData();" value="Send Message" class="btna btn-primary py-3 px-5" name="send message">
@@ -61,7 +61,7 @@
                         <div id="results"></div>
                     </div>
                 </div>
-                
+
             </div>
         </section>
 
